@@ -1,0 +1,24 @@
+{
+  "name": "project_web_datamining_and_semantic",
+  "version": "1.0.0",
+  "description": "Récupération et présentation de la disponibilité des vélos dans des villes de France",
+  "main": "getData.js",
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxduportal/project_web_datamining_and_semantic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxduportal/project_web_datamining_and_semantic/issues"
+  },
+  "homepage": "https://github.com/fxduportal/project_web_datamining_and_semantic#readme"
+}
